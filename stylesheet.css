@@ -1,0 +1,27 @@
+body {
+  background: #eab676;
+  text-align: center;
+}
+form {
+  max-width: 500px;
+  text-align: left;
+  padding: 20px;
+  border: 2px solid #8b4a2c;
+  margin-top: 20px;
+  font-family: arial;
+  color: #4f2324;
+}
+input {
+  margin: 10px;
+}
+h1 {
+  font-family: Garamond;
+  color: #4f2324
+}
+textarea {
+  margin: 5px
+}
+p {
+  font-family: cambria;
+  color: #834338
+}
